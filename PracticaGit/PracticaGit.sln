@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaGit", "PracticaGit\PracticaGit.csproj", "{07A8206C-1C51-4912-AD3C-01AB06233FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A8206C-1C51-4912-AD3C-01AB06233FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A8206C-1C51-4912-AD3C-01AB06233FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A8206C-1C51-4912-AD3C-01AB06233FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A8206C-1C51-4912-AD3C-01AB06233FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D470E762-1EAC-4209-968D-F56990735AD2}
+	EndGlobalSection
+EndGlobal
