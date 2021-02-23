@@ -3,3 +3,8 @@ C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Deb
 C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.Properties.Resources.resources
 C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.csproj.GenerateResource.cache
 C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.csproj.CoreCompileInputs.cache
+C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\bin\Debug\PracticaGit.exe.config
+C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\bin\Debug\PracticaGit.exe
+C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\bin\Debug\PracticaGit.pdb
+C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.exe
+C:\Users\llill\source\repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.pdb
