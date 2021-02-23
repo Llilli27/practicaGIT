@@ -44,6 +44,7 @@ namespace PracticaGit
             this.aluNombre.Name = "aluNombre";
             this.aluNombre.Size = new System.Drawing.Size(334, 20);
             this.aluNombre.TabIndex = 0;
+            this.aluNombre.TextChanged += new System.EventHandler(this.aluNombre_TextChanged);
             // 
             // aluNota
             // 
@@ -112,6 +113,7 @@ namespace PracticaGit
             this.Controls.Add(this.aluNombre);
             this.Name = "Form1";
             this.Text = "Alumnos";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,0 +1,10 @@
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\bin\Debug\PracticaGit.exe.config
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\bin\Debug\PracticaGit.exe
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\bin\Debug\PracticaGit.pdb
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.csprojAssemblyReference.cache
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.Form1.resources
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.Properties.Resources.resources
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.csproj.GenerateResource.cache
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.csproj.CoreCompileInputs.cache
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.exe
+C:\Users\Practica\Source\Repos\Llilli27\practicaGIT\PracticaGit\PracticaGit\obj\Debug\PracticaGit.pdb
