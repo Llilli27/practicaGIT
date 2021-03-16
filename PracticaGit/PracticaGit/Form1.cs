@@ -37,7 +37,7 @@ namespace PracticaGit
             }
             else if (miAlumno.Nota < 9)
             {
-                miAlumnoNotaTexto = "Tiene pene";
+                miAlumnoNotaTexto = "Notablee";
             }
             else
                 miAlumnoNotaTexto = "Sobresaliente";
